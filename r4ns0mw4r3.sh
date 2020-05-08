@@ -11,7 +11,7 @@
 directory="C:\\USERS\\Administrator\\"
 file="list.txt"
 denyuser="Everyone"
-ransompic="ransomed.gif"
+ransompic="r4ns0m3d.png"
 quote='"'
 rpar=")"
 lpar="("
